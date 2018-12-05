@@ -21,4 +21,5 @@ spring:
     console:
       enabled: true
       
+promotion: action
 name: jisang-default
